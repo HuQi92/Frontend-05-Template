@@ -1,1 +1,2 @@
 学习笔记
+display:inline-block默认对其方式是baseline，设置vetical-align:middle可以垂直居中
